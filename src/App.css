@@ -1,0 +1,22 @@
+h1{
+  color: red;
+}
+
+.box{
+  border: 2px solid orangered;
+}
+
+.profile{
+  border: 2px solid blue;
+  width: 30%;
+  margin: 40px;
+}
+
+.profile-img{
+  width: 100%;
+}
+
+.flex{
+  display: flex;
+  justify-content: center;
+}
